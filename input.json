@@ -1,0 +1,74 @@
+{
+"users": [
+	{
+		"id_str" : "10" ,
+		"name" : "Truman" ,
+		"location" : "Alabama",
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg/1200px-Vombatus_ursinus_-Maria_Island_National_Park.jpg" ,
+		"follows" : ["1","9"]
+	},
+	{
+		"id_str" : "1" ,
+		"name" : "Azar" ,
+		"location" : "Connecticut" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg/1200px-Vombatus_ursinus_-Maria_Island_National_Park.jpg" ,
+		"follows" : []
+	},
+	{
+		"id_str" : "2" ,
+		"name" : "Sanah" ,
+		"location" : "Arkansas" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg/1200px-Vombatus_ursinus_-Maria_Island_National_Park.jpg" ,
+		"follows" : ["3","5"]
+	},
+	{
+		"id_str" : "3" ,
+		"name" : "Zahaire" ,
+		"location" : "Washington" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg/1200px-Vombatus_ursinus_-Maria_Island_National_Park.jpg" ,
+		"follows" : ["9"]
+	},
+	{
+		"id_str" : "4" ,
+		"name" : "Million" ,
+		"location" : "Georgia" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/0/06/Jorts_the_Cat.jpg" ,
+		"follows" : ["2","8"]
+	},
+	{
+		"id_str" : "5" ,
+		"name" : "Malana" ,
+		"location" : "Montana" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png" ,
+		"follows" : ["2","9"]
+	},
+	{
+		"id_str" : "6" ,
+		"name" : "Trevin" ,
+		"location" : "Oregon" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png" ,
+		"follows" : ["8"]
+	},
+	{
+		"id_str" : "7" ,
+		"name" : "Arslan" ,
+		"location" : "Arkansas" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg/1200px-Vombatus_ursinus_-Maria_Island_National_Park.jpg" ,
+		"follows" : ["2","5","9"]
+	},
+	{
+		"id_str" : "8" ,
+		"name" : "Criss" ,
+		"location" : "North Carolina" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Pikachu_artwork_for_Pok%C3%A9mon_Red_and_Blue.webp/220px-Pikachu_artwork_for_Pok%C3%A9mon_Red_and_Blue.webp.png" ,
+		"follows" : ["9"]
+	},
+	{
+		"id_str" : "9" ,
+		"name" : "Myeir" ,
+		"location" : "Arizona" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/0/06/Jorts_the_Cat.jpg" ,
+		"follows" : ["3","6","8"]
+	}
+]
+}
